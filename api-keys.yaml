@@ -1,0 +1,52 @@
+apikeys:
+  bevigil:
+    key: 39BtElvU4GYfvFu6
+
+  binaryedge:
+    key: dd189e26-1d84-426f-8a93-37c2ac44e4e0
+
+  bing:
+    key: Ash6ldN-zIkVS2lFwKZyuA39t0DSfSXhNgFYAw38_Df84BEDTNIKpr4VtVXGRJpw
+
+  bufferoverun:
+    key: yVgELpd6UD9LJw2sE5Xrt9uRjsVNgMek7W3eJWKW
+
+  censys:
+    id: e09dfbc3-4ebc-4e20-9886-121105e6f7d9
+    secret: iqWS6HZoaka7GryTcv2EwfLybV2qAzvU
+
+  criminalip:
+    key: 7v8ilKKirXowCPDBt3cDFCx03whNQCnMkkKiqNcpz8vQjxSafvxcrtr7w0jV
+
+  fullhunt:
+    key: dbd414bc-7ada-476d-966c-3359b3854490
+
+  github:
+    key: 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
+
+  hunter:
+    key: fce7ad7aaca0f2312d853f517735d70a3bb1ed83
+
+  intelx:
+    key: 34b4e6e8-2185-4e58-a6ab-64b332acd7da
+
+  pentestTools:
+    key: d05959826afb12970bba93744cecde9331986e26
+
+  projectDiscovery:
+    key: vBaRDb30UcHHiThH44VffkbQtVd6HaJG7Bg7yRpgHFu5cCLQcHuUdiQ246hXmzed
+
+  rocketreach:
+    key: dbd414bc-7ada-476d-966c-3359b3854490
+
+  securityTrails:
+    key: tISSyeU3oxTTobsclf147PeRl6X9jfzC
+
+  shodan:
+    key: kdnzf4fsYWQmGajRDn3hB0RElbUlIaqu
+
+  virustotal:
+    key: e06dc370489b76ec3bdde1161670c6eddbd27d23454420adb4666e07012fd351
+
+  zoomeye:
+    key: 3834c56e-98b4-d0e00-18c9-b546965714d
